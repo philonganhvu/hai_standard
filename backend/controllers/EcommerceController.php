@@ -10,8 +10,11 @@ use yii\filters\VerbFilter;
 /**
  * Site controller
  */
-class SiteController extends Controller
+class EcommerceController extends Controller
 {
+    public $param_menu = 2;
+    public $param_li = 1;
+
     /**
      * @inheritdoc
      */
