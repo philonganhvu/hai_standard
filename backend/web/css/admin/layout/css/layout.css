@@ -996,7 +996,7 @@ Page sidebar
 }
 .page-sidebar .page-sidebar-menu > li.heading,
 .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.heading {
-  padding: 15px 15px 15px 15px;
+  padding: 0 15px 0 15px;
 }
 .page-sidebar .page-sidebar-menu > li.heading > h3,
 .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.heading > h3 {
